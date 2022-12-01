@@ -1,0 +1,1 @@
+# by.vitstep.maven.classwork
